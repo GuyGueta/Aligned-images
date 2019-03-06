@@ -7,7 +7,7 @@
 #  revives an image source load makes corrections on that image and save it
 ############################################################################
 
-import ex6_helper
+import Aligned_Images_Helper
 import math
 import sys
 
